@@ -5,6 +5,12 @@
     "adminUsername": {
       "value" : "GEN-UNIQUE"
     },
+ "uniqueDnsName": {
+      "value": "GEN-UNIQUE"
+    },
+    "uniqueDnsNameForPublicIP": {
+      "value": "GEN-UNIQUE"
+    },
     "adminPassword": {
       "value" : "GEN-PASSWORD"
     }
